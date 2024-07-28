@@ -34,7 +34,7 @@ Para tornar a navegação mais fácil, o repositório está organizado da seguin
 
 ## Contato
 
-Se tiverem dúvidas ou precisarem de ajuda, não hesitem em me procurar durante o horário de atendimento ou enviar um e-mail para [prof.luizarrda@gmail.com](mailto:prof.luizarruda@gmail.com).
+Se tiverem dúvidas ou precisarem de ajuda, não hesitem em me procurar durante o horário de atendimento ou enviar um e-mail para [prof.luizarruda@gmail.com](mailto:prof.luizarruda@gmail.com).
 
 ## Licença
 

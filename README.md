@@ -8,6 +8,7 @@ Olá, queridos alunos e colegas!
 <span style="color:darkblue">Dear, student and colleague!</span>
 
 Este repositório foi criado para facilitar o acesso aos materiais de aula, exercícios e avaliações do nosso curso. Aqui, vocês encontrarão todos os recursos necessários para acompanhar as aulas, realizar as atividades propostas e se preparar para as avaliações. 
+
 <span style="color:darkblue">This repository was created to facilitate access to our course's Classes, Exercises, and Tests. Here you will find all the resources to follow the classes, to carry out the proposed activities, and to prepare for the test.</span>
 
 ## Organização do Repositório
